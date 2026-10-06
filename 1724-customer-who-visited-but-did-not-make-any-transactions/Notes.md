@@ -1,0 +1,1 @@
+<h2>customer-who-visited-but-did-not-make-any-transactions Notes</h2><hr>[ Time taken: 17d 21hrs 25m 18s ]
